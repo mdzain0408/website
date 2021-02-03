@@ -1,0 +1,32 @@
+h1 
+{ color: brown; } 
+
+* 
+{ border: solid;
+  border-color: rgb(68, 60, 90);
+border-width:thin } 
+
+.header{
+background-color:yellow;
+display: flex;
+justify-content: space-between ;
+}
+
+.grid{
+
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+p{
+
+    background-color: rgb(184, 155, 103);
+text-align: center;
+
+}
+
+
+
+
